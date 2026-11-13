@@ -1,6 +1,6 @@
 cask "youtfast" do
-  version "0.6.2"
-  sha256 "f2df1c390c8965c4a9d623f7c15d7cf0c6db1bdd5e7d3b43e1c22357ef1eba20"
+  version "0.7.0"
+  sha256 "216eb6d99aa2a7f13684e125cd53eb1a7d5b43010f95f380428aba3a8652d3e1"
 
   url "https://github.com/bcosta19/youtfast/releases/download/v#{version}/youtfast-v#{version}-aarch64-apple-darwin.zip"
   name "YouTFast"
